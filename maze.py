@@ -4,7 +4,7 @@ from pygame import*
 
 print("hello! Anais")
 print("hello")
-
+print("hello from Andrei")
 class GameSprite(sprite.Sprite):
     def __init__(self, player_image, player_x, player_y, player_speed):
         super().__init__()
