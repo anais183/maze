@@ -3,6 +3,7 @@ from pygame import*
 # ADDING NEW CODE TO ANAIS MAZE1 BRANCH
 
 print("hello! Anais")
+print("hello")
 
 class GameSprite(sprite.Sprite):
     def __init__(self, player_image, player_x, player_y, player_speed):
